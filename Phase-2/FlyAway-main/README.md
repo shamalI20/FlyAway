@@ -8,8 +8,7 @@ A small flight booking demo project in <b>JAVA</b>
 ## Using the application
 Home displays the application name (FlyAway) and two options - Book Flights and Admin Panel Access
 
-<img width="720" alt="flyaway-screenshot-homepage" src="https://raw.githubusercontent.com/shamal-indurkar/FlyAway/main/screenshots/Homepage.png">
-<br><br>
+<br>
 <b>Book Flights</b>  - <br>
 The user enters flight details (date, source, destination, travellers). 
 A query is sent to the remote database to fetch related flights and displayed to user.
